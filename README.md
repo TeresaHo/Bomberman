@@ -1,8 +1,8 @@
-# Bomberman
-first person bomberman game 
+### Bomberman
+First Person Bomberman Game 
 (Only uploaded scripts)
  
- It was co-written by other two of my classmates in our sophomore year using Unity.
- It only has online mode which at least needs two players.
- We built our own robot characters and made animation for each by using Blender. Of course we used some other charaters from assets store.
- Photon is also used to achieve this online mode for this game.
+ - It was co-written by other two teammates in our sophomore year.
+ - It only has online mode which needs at least two players.
+ - We built our own robot characters and made animation for each by Blender. We also directly used some other elements from Unity assets store.
+ - Photon function is also used to achieve online battle mode for this game.
