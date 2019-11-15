@@ -10,3 +10,6 @@ First Person Bomberman Game
  -------------
  - opening scene
 ![Alt text](images/beginning_scene.png?raw=true "Title")
+
+ - creating room and waiting for other players to join
+![Alt text](images/room.png?raw=true "Title")
