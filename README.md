@@ -1,7 +1,9 @@
-### Bomberman
-First Person Bomberman Game 
+### CrazyLogicBomb
+It's a First Person Crazy Arcade Game 
 
- - It only has online mode which needs at least two players.
+ - It only supports online mode which needs at least two players.
+ - Players can choose to create a room or join an existing room
+ - Before entering the game, the player decides how to distribute the given 10 points on different abilities such as moving speed, the power of his bomb, etc.
  - We built our own robot characters and made animation for each by Blender. We also directly used some other elements from Unity assets store.
  - Photon function is also used to achieve online battle mode for this game.
  
